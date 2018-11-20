@@ -112,7 +112,7 @@
             this.btPassword2.Name = "btPassword2";
             this.btPassword2.Size = new System.Drawing.Size(195, 32);
             this.btPassword2.TabIndex = 5;
-            this.btPassword2.Tag = "qwas2";
+            this.btPassword2.Tag = "qwas22";
             this.btPassword2.Text = "Пароль";
             this.btPassword2.UseVisualStyleBackColor = true;
             this.btPassword2.Click += new System.EventHandler(this.btPassword1_Click);
